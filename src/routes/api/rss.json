@@ -1,0 +1,24 @@
+{
+  "sources": {
+    "youtube": {
+      "baseUrl": "https://www.youtube.com/feeds/videos.xml",
+      "queryParam": "channel_id"
+    }
+  },
+  "users": [
+    {
+      "username": "CSJackie",
+      "sources": {
+        "youtube": {
+          "username": "CSJackie",
+          "channel": "https://www.youtube.com/@CSJackie/videos"
+        }
+      },
+      "tags": [
+        "women-in-tech",
+        "faang",
+        "system-design"
+      ]
+    }
+  ]
+}
